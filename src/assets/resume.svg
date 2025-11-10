@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Minimal lowercase wordmark 'resume' with green dot -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 48" role="img" aria-labelledby="title desc">
+    <title id="title">Resume wordmark</title>
+    <desc id="desc">Lowercase wordmark 'resume' with green dot</desc>
+        <text x="8" y="34" fill="#0B1220" font-family="Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial" font-weight="700" font-size="28" letter-spacing="0">resume</text>
+    <!-- green dot positioned immediately after the word 'resume' and vertically centered -->
+    <circle cx="112" cy="28" r="5" fill="#10B981" />
+</svg>
